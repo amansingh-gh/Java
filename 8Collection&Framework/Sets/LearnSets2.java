@@ -50,8 +50,5 @@ public class LearnSets2 {
     }
     public static void main(String[] args) {
         Set<String> s1 = new HashSet<>();
-
-        // s1.addAll(new Stud(1, "RAM"));
-        Student s1 = new Student(1,"Anuj");
     }    
 }
