@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.Synchronization;
+package com.learningpackage.JavaAdvance.Multithreading.Synchronization;
 
 public class Test {
     public static void main(String[] args) {
