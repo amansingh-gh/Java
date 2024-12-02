@@ -1,8 +1,6 @@
 package com.learningpackage.JavaAdvance.exceptions;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
 
 public class ThrowsKeyword {
     public static void main(String[] args) throws Exception {

@@ -1,8 +1,5 @@
 package com.learningpackage.JavaAdvance.exceptions;
 
-import com.learningpackage.JavaAdvance.AccessModifier.school.Student2;
-import com.learningpackage.JavaAdvance.oops.Constructor.Student;
-
 public class division {
     public static void main(String[] args) {
         int a = 10, b=0;

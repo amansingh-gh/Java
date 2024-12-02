@@ -1,5 +1,7 @@
+package com.learningpackage.JavaAdvance.JavaDSA;
+
 import java.util.Arrays;
-public class bubble_sort {
+public class bubbleSort {
     public static void main(String[] args) {
         int[]arr={1000,200,30000000,40,60,400,40000};
         bubblesort(arr);
