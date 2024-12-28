@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.threadStates;
+package com.digest.corejava.Multithreading.threadStates;
 
 public class MyThread extends Thread {
     @Override

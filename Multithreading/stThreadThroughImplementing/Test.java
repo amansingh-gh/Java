@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.stThreadThroughImplementing;
+package com.digest.corejava.Multithreading.stThreadThroughImplementing;
 
 public class Test {
     public static void main(String[] args) {

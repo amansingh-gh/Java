@@ -1,4 +1,4 @@
-//package com.learningpackage.JavaAdvance.multithreading.locks.deadLock;
+package com.digest.corejava.Multithreading.locks.deadLock;//package com.learningpackage.JavaAdvance.Mullti.locks.deadLock;
 //
 //// Pen class represents a resource with synchronized methods
 //public class Pen {

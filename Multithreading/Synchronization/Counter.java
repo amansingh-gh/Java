@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.Synchronization;
+package com.digest.corejava.Multithreading.Synchronization;
 
 public class Counter {
     private int count = 0;

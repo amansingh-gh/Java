@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.threadMethods;
+package com.digest.corejava.Multithreading.threadMethods;
 
 public class Yield extends Thread {
     public Yield(String name){

@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.locks.explicitLock;
+package com.digest.corejava.Multithreading.locks.explicitLock;
 
 public class ATM {
     public static void main(String[] args) {

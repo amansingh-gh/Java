@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.locks.explicitLock;
+package com.digest.corejava.Multithreading.locks.explicitLock;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;

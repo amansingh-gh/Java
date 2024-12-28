@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.stThreadThroughExtendThreadClass;
+package com.digest.corejava.Multithreading.stThreadThroughExtendThreadClass;
 
 public class Test {
     public static void main(String[] args) {

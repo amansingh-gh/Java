@@ -1,4 +1,4 @@
-//package com.learningpackage.JavaAdvance.multithreading.locks.readWriteLock;
+package com.digest.corejava.Multithreading.locks.readWriteLock;//package com.learningpackage.JavaAdvance.Mullti.locks.readWriteLock;
 //
 //import java.util.concurrent.locks.Lock;
 //import java.util.concurrent.locks.ReadWriteLock;

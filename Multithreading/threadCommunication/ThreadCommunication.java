@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.threadCommunication;
+package com.digest.corejava.Multithreading.threadCommunication;
 
 class SharedResources {
     private int data;

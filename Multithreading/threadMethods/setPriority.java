@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.threadMethods;
+package com.digest.corejava.Multithreading.threadMethods;
 
 public class setPriority extends Thread {
     public setPriority(String name){

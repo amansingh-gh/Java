@@ -1,4 +1,4 @@
-package com.learningpackage.JavaAdvance.multithreading.locks.intrisicLock;
+package com.digest.corejava.Multithreading.locks.intrisicLock;
 
 public class BankAccount {
     private int balance = 100;
