@@ -1,6 +1,6 @@
 package com.digest.corejava.Multithreading.locks.intrisicLock;
 
-public class BankAccount {
+public class BankAcct2 {
     private int balance = 100;
 
     public synchronized void withdraw(int amount) {
