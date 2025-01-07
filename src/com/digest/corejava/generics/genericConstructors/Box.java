@@ -1,9 +1,11 @@
-package com.digest.corejava.generics.boundedTypesGenerics;
-
-// <T extends Number>  is bounded type generics
+package com.digest.corejava.generics.genericConstructors;
 
 public class Box<T extends Number> {
     private T value;
+
+    public Box(T value) {
+        this.value = value;
+    }
 
     public T getValue() {
         return value;
@@ -14,7 +16,8 @@ public class Box<T extends Number> {
     }
 
     public static void main(String[] args) {
-        Box<Integer> box = new Box<>();
-        box.setValue(10);
+        Box box = new Box(12);
+        System.out.println(box.getValue());
     }
+
 }
