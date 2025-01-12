@@ -1,4 +1,4 @@
-package com.digest.corejava.collectionFramework.list.comparator;
+package com.digest.corejava.collectionFramework.list.comparator2;
 
 import java.util.ArrayList;
 import java.util.Comparator;

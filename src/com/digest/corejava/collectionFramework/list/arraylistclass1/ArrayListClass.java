@@ -1,4 +1,4 @@
-package com.digest.corejava.collectionFramework.list.arraylistclass;
+package com.digest.corejava.collectionFramework.list.arraylistclass1;
 
 
 import java.util.ArrayList;

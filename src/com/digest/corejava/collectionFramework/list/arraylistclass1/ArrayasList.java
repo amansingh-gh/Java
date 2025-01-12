@@ -1,4 +1,4 @@
-package com.digest.corejava.collectionFramework.list.arraylistclass;
+package com.digest.corejava.collectionFramework.list.arraylistclass1;
 
 // Returns a fixed-size list, and we can't add element, we only replaces the element.
 
