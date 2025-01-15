@@ -50,5 +50,10 @@ public class TerminalOperation4 {
 
 //        9. forEachOrdered
         List<Integer> numbers = Arrays.asList(10, 2, 2, 3, 4, 5);
+        System.out.println("Using forEach with parallel stream: ");
+        numbers.parallelStream().forEach(System.out::print);
+        System.out.println(",");
+        System.out.println("Using forEachOrdered with parallel stream: ");
+        numbers.stream().forEachOrdered(System.out::print);
     }
 }
