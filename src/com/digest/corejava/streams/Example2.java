@@ -6,7 +6,7 @@ import java.util.List;
 public class Example2 {
     public static void main(String[] args) {
 
-//        Ex: Filtering and collecting namess
+//        Ex: Filtering and collecting namesss
         List<String> names = Arrays.asList("Anna", "Bob", "Charlie", "Smith", "Kal");
         System.out.println(names.stream().filter(x -> x.length() > 3).toList());
 
