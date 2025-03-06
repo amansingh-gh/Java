@@ -1,7 +1,6 @@
 package com.digest.corejava.Multithreading.executorFramework;
 
 import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.ExecutionException;
 
 public class CF2 {
     public static void main(String[] args) {

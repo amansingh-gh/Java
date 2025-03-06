@@ -1,6 +1,5 @@
 package com.digest.corejava.Basics;
 
-import java.util.*;
 public class w_loop {
     public static void main(String [] args){
         int i=0;

@@ -1,6 +1,5 @@
 package com.digest.corejava.Basics;
 
-import java.util.*;
 public class f_loop4{
     public static void main(String[] args) {
         int i;

@@ -1,6 +1,5 @@
 package com.digest.corejava.Basics;
 
-import java.util.*;
 public class q1_print1 {
     public static void main(String[] args) {
         int n = 5;

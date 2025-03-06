@@ -1,6 +1,5 @@
 package com.digest.corejava.collectionFramework.list.linkedListClass3;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
 

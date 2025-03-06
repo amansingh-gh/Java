@@ -1,7 +1,5 @@
 package com.digest.corejava.streams;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
